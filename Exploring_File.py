@@ -10,6 +10,7 @@ titles = []
 alias = []
 cabin_floor = []
 cabin_number = []
+ticket_type = []
 age_mean = np.mean(titanic["Age"])
 titanic["Cabin"] = titanic["Cabin"].fillna("U")
 
@@ -50,12 +51,21 @@ for index, row in titanic.iterrows():
         cabin_floor.append(cabin[0])
         cabin_number.append(cabins[0][1:])
 
+    ticket = row["Ticket"].strip()
+
+    try:
+        ticket += 1
+    except TypeError:
+        ticket_type.append(re.split(" ",ticket)[0])
+
+
 
 titanic.insert(5,"Title",titles)
 titanic.insert(6,"Alias",alias)
 titanic.insert(10,"Fam", titanic["SibSp"] + titanic["Parch"])
 titanic.insert(13,"Cabin_Floor", cabin_floor)
 titanic.insert(14,"Cabin_Nb", cabin_number)
+titanic.insert(15,"Ticket_Type",ticket_type)
 titanic["Age"] = titanic["Age"].fillna(age_mean)
 
-print titanic
+titanic.to_csv("train_updated.csv")
