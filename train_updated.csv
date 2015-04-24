@@ -291,7 +291,7 @@
 289,290,1,3,"Connolly, Miss. Kate",female,Miss,0,22.0,0,0,0,370373,7.75,U,0,370373,U,Q
 290,291,1,1,"Barber, Miss. Ellen ""Nellie""",female,Miss,1,26.0,0,0,0,19877,78.85,U,0,19877,U,S
 291,292,1,1,"Bishop, Mrs. Dickinson H (Helen Walton)",female,Mrs,1,19.0,1,0,1,11967,91.0792,B,49,11967,B49,C
-292,293,0,2,"Levy, Mr. Rene Jacques",male,Mr,0,36.0,0,0,0,SC/Paris 2163,12.875,D,,SC/Paris,D,C
+292,293,0,2,"Levy, Mr. Rene Jacques",male,Mr,0,36.0,0,0,0,SC/Paris 2163,12.875,D,0,SC/Paris,D,C
 293,294,0,3,"Haas, Miss. Aloisia",female,Miss,0,24.0,0,0,0,349236,8.85,U,0,349236,U,S
 294,295,0,3,"Mineff, Mr. Ivan",male,Mr,0,24.0,0,0,0,349233,7.8958,U,0,349233,U,S
 295,296,0,1,"Lewy, Mr. Ervin G",male,Mr,0,29.69911764705882,0,0,0,PC 17612,27.7208,U,0,PC,U,C
@@ -326,7 +326,7 @@
 324,325,0,3,"Sage, Mr. George John Jr",male,Mr,0,29.69911764705882,8,2,10,CA. 2343,69.55,U,0,CA.,U,S
 325,326,1,1,"Young, Miss. Marie Grice",female,Miss,0,36.0,0,0,0,PC 17760,135.6333,C,32,PC,C32,C
 326,327,0,3,"Nysveen, Mr. Johan Hansen",male,Mr,0,61.0,0,0,0,345364,6.2375,U,0,345364,U,S
-327,328,1,2,"Ball, Mrs. (Ada E Hall)",female,Mrs,1,36.0,0,0,0,28551,13.0,D,,28551,D,S
+327,328,1,2,"Ball, Mrs. (Ada E Hall)",female,Mrs,1,36.0,0,0,0,28551,13.0,D,0,28551,D,S
 328,329,1,3,"Goldsmith, Mrs. Frank John (Emily Alice Brown)",female,Mrs,1,31.0,1,1,2,363291,20.525,U,0,363291,U,S
 329,330,1,1,"Hippach, Miss. Jean Gertrude",female,Miss,0,16.0,0,1,1,111361,57.9792,B,18,111361,B18,C
 330,331,1,3,"McCoy, Miss. Agnes",female,Miss,0,29.69911764705882,2,0,2,367226,23.25,U,0,367226,U,Q
@@ -338,7 +338,7 @@
 336,337,0,1,"Pears, Mr. Thomas Clinton",male,Mr,0,29.0,1,0,1,113776,66.6,C,2,113776,C2,S
 337,338,1,1,"Burns, Miss. Elizabeth Margaret",female,Miss,0,41.0,0,0,0,16966,134.5,E,40,16966,E40,C
 338,339,1,3,"Dahl, Mr. Karl Edwart",male,Mr,0,45.0,0,0,0,7598,8.05,U,0,7598,U,S
-339,340,0,1,"Blackwell, Mr. Stephen Weart",male,Mr,0,45.0,0,0,0,113784,35.5,T,,113784,T,S
+339,340,0,1,"Blackwell, Mr. Stephen Weart",male,Mr,0,45.0,0,0,0,113784,35.5,T,0,113784,T,S
 340,341,1,2,"Navratil, Master. Edmond Roger",male,Master,0,2.0,1,1,2,230080,26.0,F,2,230080,F2,S
 341,342,1,1,"Fortune, Miss. Alice Elizabeth",female,Miss,0,24.0,3,2,5,19950,263.0,C,23,19950,C23 C25 C27,S
 342,343,0,2,"Collander, Mr. Erik Gustaf",male,Mr,0,28.0,0,0,0,248740,13.0,U,0,248740,U,S
@@ -472,7 +472,7 @@
 470,471,0,3,"Keefe, Mr. Arthur",male,Mr,0,29.69911764705882,0,0,0,323592,7.25,U,0,323592,U,S
 471,472,0,3,"Cacic, Mr. Luka",male,Mr,0,38.0,0,0,0,315089,8.6625,U,0,315089,U,S
 472,473,1,2,"West, Mrs. Edwy Arthur (Ada Mary Worth)",female,Mrs,1,33.0,1,2,3,C.A. 34651,27.75,U,0,C.A.,U,S
-473,474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,Mrs,1,23.0,0,0,0,SC/AH Basle 541,13.7917,D,,SC/AH,D,C
+473,474,1,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,Mrs,1,23.0,0,0,0,SC/AH Basle 541,13.7917,D,0,SC/AH,D,C
 474,475,0,3,"Strandberg, Miss. Ida Sofia",female,Miss,0,22.0,0,0,0,7553,9.8375,U,0,7553,U,S
 475,476,0,1,"Clifford, Mr. George Quincy",male,Mr,0,29.69911764705882,0,0,0,110465,52.0,A,14,110465,A14,S
 476,477,0,2,"Renouf, Mr. Peter Henry",male,Mr,0,34.0,1,0,1,31027,21.0,U,0,31027,U,S

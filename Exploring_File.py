@@ -35,7 +35,7 @@ def update_file(file):
             cabin_number.append("0")
         elif len(cabins) == 1:
             cabin_floor.append(cabin[0])
-            if cabin == "U":
+            if (cabin == "U") or (cabin[1:] == ""):
                 cabin_number.append("0")
             else:
                 cabin_number.append(cabin[1:])

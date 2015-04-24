@@ -108,7 +108,7 @@
 106,998,3,"Buckley, Mr. Daniel",male,21.0,Mr,0,0,0,330920,0,7.8208,U,U,0,330920,Q
 107,999,3,"Ryan, Mr. Edward",male,30.272590361445783,Mr,0,0,0,383162,0,7.75,U,U,0,383162,Q
 108,1000,3,"Willer, Mr. Aaron (Abi Weller"")""",male,30.272590361445783,Mr,1,0,0,3410,0,8.7125,U,U,0,3410,S
-109,1001,2,"Swane, Mr. George",male,18.5,Mr,0,0,0,248734,0,13.0,F,F,,248734,S
+109,1001,2,"Swane, Mr. George",male,18.5,Mr,0,0,0,248734,0,13.0,F,F,0,248734,S
 110,1002,2,"Stanton, Mr. Samuel Ward",male,41.0,Mr,0,0,0,237734,0,15.0458,U,U,0,237734,C
 111,1003,3,"Shine, Miss. Ellen Natalia",female,30.272590361445783,Miss,0,0,0,330968,0,7.7792,U,U,0,330968,Q
 112,1004,1,"Evans, Miss. Edith Corse",female,36.0,Miss,0,0,0,PC 17531,0,31.6792,A29,A,29,PC,C
@@ -300,7 +300,7 @@
 298,1190,1,"Loring, Mr. Joseph Holland",male,30.0,Mr,0,0,0,113801,0,45.5,U,U,0,113801,S
 299,1191,3,"Johansson, Mr. Nils",male,29.0,Mr,0,0,0,347467,0,7.8542,U,U,0,347467,S
 300,1192,3,"Olsson, Mr. Oscar Wilhelm",male,32.0,Mr,0,0,0,347079,0,7.775,U,U,0,347079,S
-301,1193,2,"Malachard, Mr. Noel",male,30.272590361445783,Mr,0,0,0,237735,0,15.0458,D,D,,237735,C
+301,1193,2,"Malachard, Mr. Noel",male,30.272590361445783,Mr,0,0,0,237735,0,15.0458,D,D,0,237735,C
 302,1194,2,"Phillips, Mr. Escott Robert",male,43.0,Mr,0,0,1,S.O./P.P. 2,1,21.0,U,U,0,S.O./P.P.,S
 303,1195,3,"Pokrnic, Mr. Tome",male,24.0,Mr,0,0,0,315092,0,8.6625,U,U,0,315092,S
 304,1196,3,"McCarthy, Miss. Catherine Katie""""",female,30.272590361445783,Miss,1,0,0,383123,0,7.75,U,U,0,383123,Q
